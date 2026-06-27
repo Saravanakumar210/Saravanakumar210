@@ -12,10 +12,10 @@ Supply chains often break down when faced with unexpected delays, route disrupti
 * **Dynamic Route Optimization:** Developed resource allocation algorithms (`optimizer.py`) focused on minimizing logistics costs and improving delivery speed.
 * **Interactive Analytics Dashboard:** Designed and integrated a frontend UI to visualize agent behaviors, simulation metrics, and overall network health in real-time.
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Technical Expertise 
 * **Backend:** Python, Multi-Agent Systems (MAS), Predictive Modeling, Optimization Algorithms.
 * **Frontend:** JavaScript, HTML5, CSS3, Data Visualization.
-* **Core Focus:** Data Analytics, Supply Chain Analytics, Machine Learning, Problem Solving.
+* **Core Focus:** Data Analytics, Supply Chain Analytics, Machine Learning, Real-time processing,Pipeline automation and Problem Solving.
 
 ## 📂 Project Structure
 ```text
